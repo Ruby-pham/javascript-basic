@@ -11,7 +11,7 @@
 for (let i = 0; i<=10; i++) {console.log('check variable i=', i)}
 // String
 let cars = ['BMW', 'Volvo', 'Saab', 'Ford']
-for (let i = 2; i <= cars.length; i++) {console.log('check variable cars:', cars[i])}
+for (let i = 0; i <= cars.length; i++) {console.log('check variable cars:', cars[i ])}
 
 //USING VAR IN LOOP: khong phan biet number hay string
 // Number var 
