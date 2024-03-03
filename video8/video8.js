@@ -1,3 +1,4 @@
+// key=value
 let a = {};
 let b = 'Eric';
 console.log('typeof a: ', typeof a, 'typeof b: ', typeof b)
